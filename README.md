@@ -1,1 +1,1 @@
-# idle-empire-miner-releases
+idle-empire-miner.exe
